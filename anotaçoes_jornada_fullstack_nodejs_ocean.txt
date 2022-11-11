@@ -1,0 +1,17 @@
+				JORNADA FULLSTACK EM NODE - OCEAN
+			
+
+-link para a lousa da aula
+https://miro.com/app/board/uXjVPGdjF2Y=/?share_link_id=361002141938
+
+-github da aula
+https://github.com/paulosalvatore/ocean-jornada-fullstack-novembro-22
+
+-senha mongoDB
+VgYnkNChyWaAQAfV
+
+-url mongoDB
+mongodb+srv://guga_pacifico:<password>@cluster0.afnlcle.mongodb.net/?retryWrites=true&w=majority
+
+-url final(?)
+mongodb+srv://guga_pacifico:VgYnkNChyWaAQAfV@cluster0.afnlcle.mongodb.net
